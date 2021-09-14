@@ -7,6 +7,6 @@ Hello, World!
 
 
 
-https://www.youtube.com/watch?v=Yw6u6YkTgQ4  -- hello world
+[hello world - YouTube](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)
 
-https://yewtu.be/watch?v=Yw6u6YkTgQ4  -- hello world
+[hello world - Invidious](https://yewtu.be/watch?v=Yw6u6YkTgQ4)
